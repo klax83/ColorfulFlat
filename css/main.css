@@ -1,0 +1,76 @@
+nav {
+	background-color: #a6d2db;
+}
+#navlist {
+	font-size: .8rem;
+}
+#caro1 {
+	background-color: #a6d2db;
+}
+#featured {
+	height: 240px;
+}
+#greendiv {
+	background-color: #9ad4a4;
+}
+.btn-outline-secondary:not(:disabled):not(.disabled).active, .btn-outline-secondary:not(:disabled):not(.disabled):active, .show>.btn-outline-secondary.dropdown-toggle {
+	color: #6c757d;
+	background-color: white;
+	border: none;
+}
+.btn {
+	border: none;
+	font-weight: 700;
+
+}
+.btn-outline-secondary {
+	color: white;
+}
+.btn-outline-secondary:hover {
+	background-color: transparent;
+	border: 1px solid white;
+}
+.btn.focus {
+	box-shadow: none;
+}
+.greenbutt {
+	background-color: #9ad4a4;
+	color: white;
+}
+.bluebutt {
+	background-color: #a6d2db;
+	color: white;
+}
+.splitdiv {
+	height: 280px;
+}
+.pink {
+	background-color: #e1b6c7;
+}
+.blue {
+	background-color: #a6d2db;
+}
+.grey {
+	background-color: #3c3c3c;
+}
+.profimg {
+	height: 200px;
+}
+.profimg2 {
+	height: 175px;
+}
+.fb {
+	color: #2741a2;
+}
+.tw {
+	color: #2fa5f3;
+}
+.pin {
+	color: #af3049;
+}
+.col-2 {
+	padding: 0;
+}
+.mess {
+	height: 150px;
+}
