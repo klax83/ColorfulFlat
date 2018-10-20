@@ -1,5 +1,12 @@
+body {
+	font-family: georgia;
+}
 nav {
 	background-color: #a6d2db;
+}
+img {
+	/*object-fit: cover;*/
+	overflow: hidden;
 }
 #navlist {
 	font-size: .8rem;
@@ -8,7 +15,7 @@ nav {
 	background-color: #a6d2db;
 }
 #featured {
-	height: 240px;
+	height: 350px;
 }
 #greendiv {
 	background-color: #9ad4a4;
@@ -41,9 +48,7 @@ nav {
 	background-color: #a6d2db;
 	color: white;
 }
-.splitdiv {
-	height: 280px;
-}
+
 .pink {
 	background-color: #e1b6c7;
 }
@@ -73,4 +78,10 @@ nav {
 }
 .mess {
 	height: 150px;
+}
+img.col-5 {
+	height: 100%;
+}
+.hrb {
+	border-top: 1px solid black;
 }
